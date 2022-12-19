@@ -1,5 +1,3 @@
-![Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail](https://themesberg.s3.us-east-2.amazonaws.com/public/products/swipe/swipe-thumbnail.jpg "Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail")
-
 Swipe is a simple and beautiful mobile application one page Bootstrap 5 Template that you can use to showcase your mobile application.
 
 ## Workflow
